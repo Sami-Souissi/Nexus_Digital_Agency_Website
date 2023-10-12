@@ -1,6 +1,7 @@
-<div style="text-align: center;">
-  <img src="./Preview/vernexuswhite.png" alt="Nexus Digital Agency Website" width="50%"  style="display: block; margin: 0 auto;">
-</div>
+<p align="center">
+    <img width="50%" src="./Preview/vernexuswhite.png" alt="brand logo" >
+</p>
+
 
 <br>
 
