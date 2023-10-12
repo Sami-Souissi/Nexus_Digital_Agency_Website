@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="50%" src="./Preview/vernexuswhite.png" alt="brand logo" >
+    <img width="30%" src="./Preview/vernexuswhite.png" alt="brand logo" >
 </p>
 
 
