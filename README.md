@@ -108,10 +108,10 @@ This website is designed to be simple to use. Follow these steps to get started 
 We welcome contributions to improve the Nexus Digital Agency Website. If you'd like to contribute, please follow these guidelines:
 
 Fork the repository.
-Create a new branch for your feature or fix.
-Make your changes and commit them.
-Push your changes to your fork.
-Submit a pull request to the main repository.
+1. Create a new branch for your feature or fix.
+2. Make your changes and commit them.
+3. Push your changes to your fork.
+4. Submit a pull request to the main repository.
 
 
 ## License
